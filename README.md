@@ -35,5 +35,5 @@ Sempre aberto para trocar ideias, discutir projetos e colaborar.
 ---
 
 <p align="center">
-  <i>“Código limpo é aquele que foi escrito como se a pessoa que o fosse manter fosse um psicopata que sabe onde você mora.”</i> 😄
+  <i>“Programs must be written for people to read, and only incidentally for machines to execute.”</i> 😄
 </p>
