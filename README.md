@@ -1,8 +1,3 @@
-<!-- Banner ou imagem opcional -->
-<p align="center">
-  <img src="https://via.placeholder.com/800x200?text=Bem-vindo+ao+meu+GitHub" alt="Banner">
-</p>
-
 <!-- Título -->
 <h1 align="center">👋 Olá, eu sou o Max!</h1>
 
