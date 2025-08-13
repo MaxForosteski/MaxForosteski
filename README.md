@@ -31,9 +31,3 @@ Tenho experiência com **Java (Jakarta EE, Spring)**, **React**, **Docker** e ba
 ## 📫 Vamos conversar?
 💬 Me envie uma mensagem pelo [LinkedIn](https://www.linkedin.com/in/max-forosteski) ou [e-mail](mailto:max.forosteski.dev@gmail.com).  
 Sempre aberto para trocar ideias, discutir projetos e colaborar.
-
----
-
-<p align="center">
-  <i>“Programs must be written for people to read, and only incidentally for machines to execute.”</i> 😄
-</p>
