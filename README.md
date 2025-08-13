@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/max-forosteski"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:max.forosteski.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=max.forosteski.dev@gmail.com&tf=cm"><img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://max-forosteski-portifolio.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-Site-success?style=for-the-badge&logo=aboutdotme"></a>
 </p>
 
