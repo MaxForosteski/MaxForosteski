@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/max-forosteski"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:max.forosteski.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail"></a>
-  <a href=""><img src="https://img.shields.io/badge/Portfólio-Site-success?style=for-the-badge&logo=aboutdotme"></a>
+  <a href="https://max-forosteski-portifolio.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-Site-success?style=for-the-badge&logo=aboutdotme"></a>
 </p>
 
 ---
@@ -27,6 +27,10 @@ Tenho experiência com **Java (Jakarta EE, Spring)**, **React**, **Docker** e ba
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## Projetos em produção atualmente
+- [Portifólio](https://max-forosteski-portifolio.vercel.app/)
+- [Sadraque Auto Center](https://sadraqueautocenter.vercel.app/)
 
 ## 📫 Vamos conversar?
 💬 Me envie uma mensagem pelo [LinkedIn](https://www.linkedin.com/in/max-forosteski) ou [e-mail](mailto:max.forosteski.dev@gmail.com).  
