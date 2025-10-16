@@ -2,7 +2,7 @@
 <h1 align="center">👋 Olá, eu sou o Max!</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/max-forosteski"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/maxforosteski"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=max.forosteski.dev@gmail.com&tf=cm"><img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://max-forosteski-portifolio.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-Site-success?style=for-the-badge&logo=aboutdotme"></a>
 </p>
@@ -29,9 +29,8 @@ Tenho experiência com **Java (Jakarta EE, Spring)**, **React**, **Docker** e ba
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Projetos em produção atualmente
-- [Portifólio](https://max-forosteski-portifolio.vercel.app/)
-- [Sadraque Auto Center](https://sadraqueautocenter.vercel.app/)
+- [Portifólio](https://linceylab-portfolio.vercel.app/)
 
 ## 📫 Vamos conversar?
-💬 Me envie uma mensagem pelo [LinkedIn](https://www.linkedin.com/in/max-forosteski) ou [e-mail](mailto:max.forosteski.dev@gmail.com).  
+💬 Me envie uma mensagem pelo [LinkedIn](https://www.linkedin.com/in/maxforosteski) ou [e-mail](https://mail.google.com/mail/u/0/?fs=1&to=max.forosteski.dev@gmail.com&tf=cm).  
 Sempre aberto para trocar ideias, discutir projetos e colaborar.
